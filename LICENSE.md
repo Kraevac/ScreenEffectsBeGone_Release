@@ -105,7 +105,7 @@ But if youâ€™re publishing a mod and borrowing the structure, **credit it.** Itâ
 For questions, collaboration, or permission requests, reach out to:
 
 **Demonata Gaming**  
-YouTube: https://www.youtube.com/@demonatagaming
+YouTube: https://www.youtube.com/@demonatagaming  
 NexusMods Profile: https://next.nexusmods.com/profile/DemonataGaming
 
 ---
