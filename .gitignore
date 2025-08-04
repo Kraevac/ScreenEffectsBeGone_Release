@@ -24,7 +24,7 @@ desktop.ini
 *.backup
 *.orig
 
-# === PYTHON (if ever used locally) ===
+# === PYTHON ===
 __pycache__/
 *.py[cod]
 *.pyo
