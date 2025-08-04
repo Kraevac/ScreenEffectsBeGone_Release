@@ -69,9 +69,6 @@ Ideal for players who dislike post-processing screen clutter but want to keep th
   - Disabled intensity values on biome buff screen effects
   - Preserved all underlying hazard mechanics
   
-⚠️ Note: The "Source Code" downloads on the GitHub release page are for developers. 
-If you're installing the mod, download the ZIP with the modlet name (e.g., `ScreenEffectsBeGone.zip`) instead.
-
 ---
 
 ## 📜 License
